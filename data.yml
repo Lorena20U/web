@@ -1,0 +1,12 @@
+--- # MiniProyecto CV
+fotografia: avatar.png
+informacion_pagina:
+    autor: Lorena Perez
+    titulo: Mi CV
+informacion_personal:
+    Nombre Completo: Lorena Yaneth Perez Perez
+    Pais de Nacimiento: Guatemala
+    Idiomas:
+        - Español
+    Edad: 19
+    
